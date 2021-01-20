@@ -16,3 +16,4 @@ $ python manage.py runserver
 * list order: api/orders/ - method **GET**
 
 > Note: Instead of google geo code api, I have used opensource MapQuestApi -  https://developer.mapquest.com/
+> Please try to use lat and long in North American region for best results
